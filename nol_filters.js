@@ -5,6 +5,7 @@
 // MAAT ID, CAT Office,date added, CW ID, HEARING Date, Days Passed Hearing, Date Last Checked, CW ID, Status
 
 
+// nol filters 
 
 $(document).ready(function(){
 	var NolPageData = [];
